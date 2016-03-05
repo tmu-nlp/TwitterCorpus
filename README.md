@@ -8,11 +8,13 @@
 `pip install -r requirements.txt`
 
 ## Downloads
- 1. このリポジトリをクローン
+ 1. このリポジトリをクローン  
+     `git clone https://github.com/tmu-nlp/TwitterCorpus.git`  
  2.  [Twitter developers](https://dev.twitter.com/)へログインし、認証キーを入手する（参考：http://hello-apis.blogspot.jp/2013/03/twitterapi.html）
  3. OAuthKey.ini内のアスタリスクを取得した認証キー４種類に書き換える  
     CK: Consumer key, CS: Consumer secret, AT: Access Token, AS: Access Token Secret  
- 4. init.pyを実行
+ 4. init.pyを実行  
+     `python init.py`  
  
 
  

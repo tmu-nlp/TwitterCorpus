@@ -1,9 +1,9 @@
 # 首都大日本語 Twitter コーパス
 
 ## Requirements
-* Python 3.4.3
-* requests 2.9.1
-* requests_oauthlib 0.6.1  
+* Python 3.10 以上
+* requests 2.34.2
+* requests_oauthlib 2.0.0  
 
 上記の依存モジュールは以下でインストールできます。  
 `pip install -r requirements.txt`
